@@ -1,0 +1,22 @@
+{
+  "name": "homedashkiwi",
+  "version": "1.0.0",
+  "description": "Home du Kiwi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yppdr/HomeDashKiwi.git"
+  },
+  "keywords": [
+    "Kiwi"
+  ],
+  "author": "Yannis Piot Pilot <yannis@kiwinetwork.fr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yppdr/HomeDashKiwi/issues"
+  },
+  "homepage": "https://github.com/yppdr/HomeDashKiwi#readme"
+}
